@@ -9,7 +9,7 @@ publication_short = ""
 abstract = ""
 abstract_short = ""
 image_preview = ""
-selected = True
+selected = true
 projects = []
 tags = []
 url_pdf = "https://dl.acm.org/citation.cfm?doid=3143361.3143369"
