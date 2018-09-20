@@ -1,0 +1,31 @@
++++
+title = "Overhearing-Assisted Optimization of Address Autoconfiguration in Position-Aware VANETs"
+date = 2011-01-01T00:00:00
+draft = false
+authors = [ "M. Gramaglia", "I. Soto", "C. Bernardos", "M. Calderon",]
+publication_types = [ 2,]
+publication = "IEEE Transactions on Vehicular Technology"
+publication_short = ""
+abstract = "Vehicular networks allow vehicles to exchange information that can be used to improve traffic efficiency and drivers' safety. In addition to these new applications, Internet connectivity is also expected to be available in the cars of the near future, speeding up the global adoption of vehicular communication systems. One of the requirements for connecting vehicles to the Internet is their ability to autoconfigure Internet Protocol (IP) addresses. In this paper, we propose an optimization to Geographically Scoped stateless Address Configuration (GeoSAC), which is an IP address autoconfiguration mechanism for geographically aware location vehicles. The benefits of this optimization are twofold: 1) It can reduce the IP address configuration time, and 2) it can be used to reduce the signaling overhead of GeoSAC. The optimization requires no changes to the GeoSAC operation, being fully compatible with the original solution. We derive an analytical model for the probability of our optimization being effective in realistic scenarios and for the IP address configuration time. We also provide a thorough evaluation of the performance improvements of the optimization, including simulations with a realistic model for wireless technology, real vehicular traces, and experiments with a real prototype, which provide strong support for our analytical model."
+abstract_short = ""
+image_preview = ""
+selected = false
+projects = []
+tags = []
+url_pdf = "http://dx.doi.org/10.1109/TVT.2011.2158597"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+doi = ""
+math = false
+highlight = true
+
+[header]
+image = ""
+caption = ""
++++
