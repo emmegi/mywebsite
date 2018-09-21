@@ -343,3 +343,8 @@ enableGitInfo = true
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+
+enableRobotsTXT = true
+canonifyURLs = true
+
