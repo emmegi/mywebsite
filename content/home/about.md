@@ -36,6 +36,6 @@ weight = 5
 # Biography
 
 I am a Post-Doc researcher at the [Telematics Engineering Department](http://www.it.uc3m.es) and an Honorary Professor at [Universidad Carlos III de Madrid](http://www.uc3m.es).
-I'm currently working under the supervision of [Albert Banchs](http://it.uc3m.es/banchs) on the [5G MoNArch](https://5g-monarch.eu/) H2020 project.
+I'm currently working with [Albert Banchs](http://it.uc3m.es/banchs) on the [5G MoNArch](https://5g-monarch.eu/) H2020 project.
 
 Before joining UC3M, I held post-doctoral research positions at [Istituto Superiore Mario Boella](http://www.ismb.it), the [Institute of Electronics, Computer, and Telecommunications Engineering (IEIIT)](http://www.ieiit.cnr.it) of the [National Research Council of Italy (CNR)](www.cnr.it) and at the [IMDEA Networks institute] (http://networks.imdea.org).
