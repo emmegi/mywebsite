@@ -1,6 +1,6 @@
----
-title: "DeepCog3A+Cognitive+Network+Management+in+Sliced+5G+Networks+with+Deep+Learning"
-date: 2019-04-29T00:00:00+01:00
++++
+title = "DeepCog: Cognitive Network Management in Sliced 5G Networks with Deep Learning"
+date = 2019-04-29T00:00:00+01:00
 draft = false
 authors = [ "D. Bega", "M. Gramaglia", "M. Fiore", "A. Banchs", "X. Costa-Perez",]
 publication_types = [ 1,]
@@ -24,5 +24,5 @@ url_source = ""
 doi = ""
 math = false
 highlight = true
----
++++
 
