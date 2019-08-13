@@ -1,0 +1,12 @@
+---
+title: "Overall 5G-MoNArch architecture and implications for resource elasticity"
+date: 2018-01-01
+publishDate: 2019-08-13T08:40:09.088827Z
+authors: ["Ö Bulakci", "Q Wei", "C Mannweiler", "M Gramaglia", "D M Gutierrez-Estevez", "M Shariat", "P Arnold", "N Di Pietro", "G Dandachi", "D Tsolkas"]
+publication_types: ["1"]
+abstract: "The fifth generation (5G) of mobile and wireless communications networks aims at addressing a diverse set of use cases, services, and applications with a particular focus on enabling new business cases via network slicing. The development of 5G has thus advanced quickly with research projects and standardization efforts resulting in the 5G baseline architecture. Nevertheless, for the realization of native end-to-end (E2E) network slicing, further features and optimizations shall still be introduced. In this paper, essential building blocks and design principles of the 5G architecture will be discussed capitalizing on the innovations that are being developed in the 5G-MoNArch project. Furthermore, building on the concept of resource elasticity introduced by 5G-MoNArch and briefly re-summarized in this paper, an elasticity functional architecture is presented where the architectural implications required for each of the three dimensions of elasticity are described, namely computational, orchestration-driven, and slice-aware elasticity."
+featured: false
+publication: "*2018 European Conference on Networks and Communications (EuCNC),*"
+tags: ["5g mobile communication", "artificial intelligence", "computer architecture", "elasticity", "resource management", ""]
+---
+

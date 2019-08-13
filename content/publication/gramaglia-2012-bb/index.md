@@ -1,0 +1,13 @@
+---
+title: "VANET-Based optimization of infotainment and traffic efficiency vehicular services"
+date: 2012-01-01
+publishDate: 2019-08-13T08:40:09.084935Z
+authors: ["Marco Gramaglia"]
+publication_types: ["7"]
+abstract: "The design, standardization and future deployment of vehicular communications systems have been driven so far by safety applications. There are two more aspects of the vehicular networking that have increased their importance in the last years: infotainment and traffic efficiency, as they can improve drivers' experience, making vehicular communications systems more attractive to end-users. In this thesis we propose optimization mechanisms for both types of vehicular services. Infotainment services are related to the provision of classic IP applications, like browsing, reading e-mail or using social networks. Traffic efficiency services are those accessing new capabilities to the car-navigation systems, aiming at optimizing the usage of road infrastructures, reducing travel times and therefore minimizing the ecological footprint. Bringing infotainment services to the vehicular environment requires to comply with standard protocols and mechanisms that allow heterogeneous networks to be interconnected in the Internet. There are three main functionalities that have to be provided: i) address autoconfiguration, ii) efficient routing and iii) mobility management. Regarding infotainment services, this thesis proposes mechanisms tackling the abovenamed aspects: an overhearing technique to improve an already standardized address autoconfiguration protocol, a tree-based routing algorithm especially tailored for vehicleto-Internet communications and an optimized mobility management approach for vehicular environments. Regarding traffic efficiency, this thesis proposes two algorithms that make use of vehicular communication techniques to monitor and forecast short-term traffic conditions. We first improved our knowledge on drivers' behavior by analyzing real vehicular data traces, and proposes a mixture model for the vehicles interarrival time. This outcome was used for validating the proposed infotainment optimization as well. All the algorithms and analytical models described in this thesis have been validated by simulations and/or implementations using standard hardware."
+featured: false
+publication: ""
+tags: ["routing", "traffic efficiency", "vanet", "vehicular networks", "wireless communications address autoconfiguration", "routing", "traffic efficiency.", "wireless communications address autoconfiguration", ""]
+url_pdf: "http://hdl.handle.net/10016/16176"
+---
+
